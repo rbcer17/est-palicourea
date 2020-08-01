@@ -1,5 +1,6 @@
 #Analise com 3 classes interno borda externo 23fev2020
 #teste do github
+#novo teste do github
 library(readxl)
 Copy2_of_taxas_frutificacao_verdes_interno_borda_e_externo <- read_excel("Copy2 of taxas-frutificacao-verdes-interno-borda-e-externo.xlsx")
 taxas3<-Copy2_of_taxas_frutificacao_verdes_interno_borda_e_externo
